@@ -1,25 +1,20 @@
 *{
+   
     padding: 0;
     margin: 0;
 }
 body{
-    margin: 10%;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 30px;
 }
 
 .second{
     display: flex;
-}
-p{
-    margin-left: 50px;
-    padding-top: 30px;
 }
 .third{
     display: flex;
 }
 .fourth{
     display: flex;
-}
-i{
-    margin-left: 50px;
-    padding-top: 30px;
 }
